@@ -1,0 +1,14 @@
+streamlit
+langchain
+chromadb
+beautifulsoup4
+requests
+llama-cpp-python
+sentence-transformers
+transformers
+torch
+numpy
+pandas
+tqdm
+protobuf
+pydantic
